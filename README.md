@@ -20,6 +20,7 @@
 - [Magento to Shopware Migration](https://d2d-soft.com/shopware-migration/1093-10234-magento-to-shopware-migration-tool.html#/72-entities-1000)
 - [MarketPress to Shopware Migration](https://d2d-soft.com/shopware-migration/1094-10235-marketpress-to-shopware-migration-tool.html#/72-entities-1000)
 - [OpenCart to Shopware Migration](https://d2d-soft.com/shopware-migration/1095-10236-opencart-to-shopware-migration-tool.html#/72-entities-1000)
+- [osCMax to Shopware Migration](https://d2d-soft.com/shopware-migration/1202-11556-oscmax-to-shopware-migration-tool.html#/72-entities-1000)
 - [osCommerce to Shopware Migration](https://d2d-soft.com/shopware-migration/1096-10237-oscommerce-to-shopware-migration-tool.html#/72-entities-1000)
 - [OXID-eShop to Shopware Migration](https://d2d-soft.com/shopware-migration/1097-10238-oxid-eshop-to-shopware-migration-tool.html#/72-entities-1000)
 - [PrestaShop to Shopware Migration](https://d2d-soft.com/shopware-migration/1098-10239-prestashop-to-shopware-migration-tool.html#/72-entities-1000)
@@ -55,6 +56,7 @@
 - [Magento](https://magento.com/)
 - MarketPress
 - [OpenCart](https://www.opencart.com/)
+- osCMax
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
 - [PrestaShop](https://www.prestashop.com)
